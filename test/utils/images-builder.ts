@@ -1,6 +1,6 @@
-import { FileRequest } from 'domain/models/fileRequest';
-import { Image } from 'domain/models/image';
-import { CommonFile } from 'domain/models/commonFile';
+import { FileRequest } from '../../src/domain/models/fileRequest';
+import { Image } from '../../src/domain/models/image';
+import { CommonFile } from '../../src/domain/models/commonFile';
 
 import faker from 'faker';
 
