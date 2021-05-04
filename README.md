@@ -34,8 +34,13 @@ Then you can hit the API if using default values `https://localhost:8000/images`
 
 TODO:
 
+Include the DB diagrams
+
 Isolate the file service layer
+
 Improve tests on the image service
+
 Improve imports
+
 Better error handle
 
