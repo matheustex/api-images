@@ -25,7 +25,7 @@ make run
 To test every part of the project, run:
 
 ```
-pnpm run test
+make run test
 ```
 
 Then you can hit the API if using default values `https://localhost:8000/images`
